@@ -59,7 +59,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <input type="email" name="email" placeholder="Email" required>
                 <button type="submit">S'inscrire</button>
             </form>
-            <p>Déjà inscrit ? <a href="login.php">Connectez-vous ici</a></p>
+            <p>Déjà inscrit(e) ? <a href="login.php">Connectez-vous ici</a></p>
         </div>
     </main>
 </body>
